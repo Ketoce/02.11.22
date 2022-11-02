@@ -1,0 +1,16 @@
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.csproj.AssemblyReference.cache
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.AssemblyInfoInputs.cache
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.AssemblyInfo.cs
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.csproj.CoreCompileInputs.cache
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.exe
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.deps.json
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.runtimeconfig.json
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.runtimeconfig.dev.json
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.dll
+D:\VSProjects\Myrla\bin\Debug\net5.0\Myrla.pdb
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.dll
+D:\VSProjects\Myrla\obj\Debug\net5.0\refint\Myrla.dll
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.pdb
+D:\VSProjects\Myrla\obj\Debug\net5.0\Myrla.genruntimeconfig.cache
+D:\VSProjects\Myrla\obj\Debug\net5.0\ref\Myrla.dll
